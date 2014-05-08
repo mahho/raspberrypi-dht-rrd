@@ -1,5 +1,6 @@
 Adafruit_DHT.c - little modified for usage in munin 
 !Warning - sensor type defined in code (line 48)
 
-Add temperature.sh to crontab */5 
+Add temperature.sh (after setting user and pass to db) to crontab  with */5 to save temperatures history.
+
 
