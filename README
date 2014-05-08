@@ -1,0 +1,9 @@
+Simple connection between DHT and WWW (with mysql)
+Requirements:
+- Raspberry Pi 
+- DHT Sensor
+- Installed: RRD Tools, mysql, www server (ie. lighttpd), php-fpm
+
+RRD Graphs are only generated in php script.
+
+(Code is ugly, i know ;) )
